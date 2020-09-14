@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.tizen.org/blogs/archive" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tizen - An open source, standards-based software platform for multiple device categories.</title>
+    <link>https://www.tizen.org/blogs/archive</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.tizen.org/blogs/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Announcing the Tizen Studio 3.7 Release</title>
+    <link>https://www.tizen.org/blogs/bighoya/2020/announcing-tizen-studio-3.7-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the release of Tizen Studio version 3.7. This release includes new features to further improve the performance of the Tizen Studio IDE and its tools.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;p&gt; • JDK has been bundled with Tizen Studio removing the dependency of Java being installed in the system.&lt;/p&gt;
+&lt;p&gt; • The security of the Tizen certificates has been enhanced by adding support for SHA512 encryption.&lt;/p&gt;
+&lt;p&gt; • Support for Chrome 80 has been added.&lt;/p&gt;
+&lt;p&gt; • Log Viewer has been re-enabled in the IDE.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This release also includes some key bug fixes:&lt;/p&gt;
+&lt;p&gt; • The issue in the installation of extension packages in Tizen Package Manager has been fixed.&lt;/p&gt;
+&lt;p&gt;For more information about the new features and bug fixes, see &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download/release-notes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download Tizen Studio, visit &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download&quot;&gt;https://developer.tizen.org/development/tizen-studio/download&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 06 Apr 2020 05:03:11 +0000</pubDate>
+ <dc:creator>Daeho Han</dc:creator>
+ <guid isPermaLink="false">20646 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Internet is here</title>
+    <link>https://www.tizen.org/blogs/tsg/2019/announcing-tizen-studio-3.6-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the release of Tizen Studio version 3.6. This release includes new features to further improve the performance of the Tizen Studio IDE and its tools. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;5.5 Platform images have been updated.&lt;/li&gt;
+&lt;li&gt;Support for the type property for wrt service applications has been provided.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information about the new features and bug fixes, see &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download/release-notes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download Tizen Studio, visit &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download&quot;&gt;https://developer.tizen.org/development/tizen-studio/download&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 10 Dec 2019 07:05:58 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20642 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Tizen 5.5 Public M2 Release</title>
+    <link>https://www.tizen.org/blogs/tsg/2019/tizen-5.5-public-m2-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;span&gt;We are pleased to announce the second milestone release of Tizen 5.5. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Tizen 5.5 Public M2 release provides developers with Tizen kernel, device drivers, middleware subsystems, and Native/Web/TizenFX APIs.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Key highlights of this release are as follows:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span&gt;Support Intelligent information technologies (NNStreamer/NN Runtime/On-Device Vision(based on DNN))&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support Multi-Display/Multi-Window&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support Motion APIs based on vector(Lottie)&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support Native UI C# APIs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Reducing Runtime memory by optimizing D-Bus Policies&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support .NET Core 3.0&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support Seamless Layout Transition Effect&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support Sticker Framework&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support Multi-Device Distributed Web Engine&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;Support User Awareness Framework&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Please refer to the &lt;a href=&quot;https://source.tizen.org/release/tizen-5.5-m2&quot;&gt;release information&lt;/a&gt; for details.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/tags/tizen-5.5&quot;&gt;Tizen 5.5&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 30 Oct 2019 07:07:34 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20641 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Announcing Tizen Studio 3.5 Release </title>
+    <link>https://www.tizen.org/blogs/tsg/2019/announcing-tizen-studio-3.5-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the release of Tizen Studio version 3.5. This release includes new features to further improve the performance of Tizen Studio IDE and its tools. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Java 12 Oracle/Open JDK support has been added to make the IDE and tools work with Java 12.&lt;/li&gt;
+&lt;li&gt;Tizen 5.5 Platform support has been added.&lt;/li&gt;
+&lt;li&gt;Template Creation Project Wizard has been refined to add Flat View which provides a different view for the purpose of project creation.&lt;/li&gt;
+&lt;li&gt;Support for Add-on and Component based type applications has been provided for tizen 5.5 applications.&lt;/li&gt;
+&lt;li&gt;Support for adding dependent package information provided in config and manifest editor from Tizen 5.5.&lt;/li&gt;
+&lt;li&gt;Support for &quot;api-version&quot; attribute in application manifest from Tizen 5.5.&lt;/li&gt;
+&lt;li&gt;Support for &quot;visibility&quot; attribute in app-control element from Tizen 5.5.&lt;/li&gt;
+&lt;li&gt;iot-headed &amp;amp; iot-headless extensions have been updated to support Tizen 5.5.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information about the new features and bug fixes, see &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download/release-notes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download Tizen Studio, visit &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download&quot;&gt;https://developer.tizen.org/development/tizen-studio/download&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 30 Oct 2019 07:03:30 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20640 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Announcing Tizen Studio 3.3 Release</title>
+    <link>https://www.tizen.org/blogs/tsg/2019/announcing-tizen-studio-3.3-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the release of Tizen Studio version 3.3. This release includes new features to further improve the performance of Tizen Studio IDE and its tools.&lt;/p&gt;
+&lt;p&gt;This release includes some key bug fixes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Application Launch was not happening if the Emulator was not in launched state already, ie Run As Option was working fine only for the first time.&lt;/li&gt;
+&lt;li&gt;When project was run with the platform-level certificate it was asking for the Author &amp;amp; Distributor password which is not required by the user to enter every time.&lt;/li&gt;
+&lt;li&gt;Device Logs were not visible in Device Manager due to parsing issue.&lt;/li&gt;
+&lt;li&gt;Added launch_screen element to the platform schema for Web Profile.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information about the new features and bug fixes, see &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download/release-notes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download Tizen Studio, visit &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download&quot;&gt;https://developer.tizen.org/development/tizen-studio/download&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 23 Jul 2019 08:31:01 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20638 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Tizen 5.5 Public M1 Release</title>
+    <link>https://www.tizen.org/blogs/tsg/2019/tizen-5.5-public-m1-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the first milestone release of Tizen 5.5. Tizen 5.5 Public M1 release provides developers with Tizen kernel, device drivers, middleware subsystems, and Native/Web/TizenFX APIs.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Key highlights of this release are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Embedded speech recognition engine has been added as a Speech To Text (STT) engine&lt;/li&gt;
+&lt;li&gt;Supports multi-assistant framework that supports multiple assistants at the same time&lt;/li&gt;
+&lt;li&gt;.NET Wearable UI extension (Tizen.Wearable.CircularUI) 1.2.0 is supported&lt;/li&gt;
+&lt;li&gt;Lottie animation viewer has been added.&lt;/li&gt;
+&lt;li&gt;Support for the High resolution(4K/8K) has been added. Display server can display the multi-resolution windows with the fullscreen size on a screen&lt;/li&gt;
+&lt;li&gt;Web Engine Upgrade Framework has been added&lt;/li&gt;
+&lt;li&gt;WRTjs (the new type of JavaScript-based WRT Framework) has been added&lt;/li&gt;
+&lt;li&gt;Smack rules will be loaded directly from security-manager DB. All rule files have been removed&lt;/li&gt;
+&lt;li&gt;Memory management for long-lived process like background-locked application has been enhanced&lt;/li&gt;
+&lt;li&gt;Various types of notifications have been provided to represent various information&lt;/li&gt;
+&lt;li&gt;Neural Network Runtime &amp;amp; Neural Network Streamer have been added (Experimental Release)  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Please refer to the &lt;a href=&quot;https://source.tizen.org/release/tizen-5.5-m1&quot;&gt;release information&lt;/a&gt; for details.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/tags/tizen-5.5&quot;&gt;Tizen 5.5&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 31 May 2019 02:09:43 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20636 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Announcing Tizen Studio 3.2 Release</title>
+    <link>https://www.tizen.org/blogs/tsg/2019/announcing-tizen-studio-3.2-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the release of Tizen Studio version 3.2. This release includes new features to further improve the performance of Tizen Studio IDE and its tools.&lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Added New watch application template for 5.0 Wearable.&lt;/li&gt;
+&lt;li&gt;Added New Skin for Wearable Emulator without bezel to disable rotation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This release also includes some key bug fixes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed the strip option in CLI package command, it was not working as expected.&lt;/li&gt;
+&lt;li&gt;Improved package signing time in Certificate Manager by reducing the loading of unnecessary security profiles.&lt;/li&gt;
+&lt;li&gt;Updated netcoredbg package in BaseLine SDK to support debugging on 5.0 Emulator.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information about the new features and bug fixes, see &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download/release-notes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download Tizen Studio, visit &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download&quot;&gt;https://developer.tizen.org/development/tizen-studio/download&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 18 Mar 2019 03:37:56 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20635 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Announcing Tizen Studio 3.1 Release</title>
+    <link>https://www.tizen.org/blogs/tsg/2019/announcing-tizen-studio-3.1-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the release of Tizen Studio version 3.1. This release includes new features to further improve the performance of Tizen Studio IDE and its tools.&lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;OpenJDK Support
+&lt;ul&gt;&lt;li&gt;Tizen Studio now supports OpenJDK 10.
+&lt;ul&gt;&lt;li&gt;OpenJDK 10 with OpenJFX 11 support has been provided in Tizen Studio.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This release also includes some key bug fixes&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Changing the profile and platform version now updates the rootstrap in project configuration.&lt;/li&gt;
+&lt;li&gt;Fixed the failure in generating a new certificate profile after 01 January 2019.&lt;/li&gt;
+&lt;li&gt;IoT certificates are copied to the project while building instead of flashing.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;For more information about the new features and bug fixes, see &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download/release-notes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download Tizen Studio, visit &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download&quot;&gt;https://developer.tizen.org/development/tizen-studio/download&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 16 Jan 2019 04:14:48 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20634 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Tizen 5.0 Public M2 Source Release</title>
+    <link>https://www.tizen.org/blogs/tsg/2018/tizen-5.0-public-m2-source-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are pleased to announce the second milestone release of Tizen 5.0. Tizen 5.0 Public M2 release provides developers with Tizen kernel, device drivers, middleware subsystems, and Native/Web/TizenFX APIs.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Key highlights of this release are as follows:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Added Service Framework APIs which send and receive data for supporting specific engine(eg. bixby 2.0)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Support for glTF (GL Transmission Format) has been added for 3D watchface&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;The SW upgrade has been enhanced to apply more devices like headless device&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Low Memory Management for headless devices has been enhanced&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Apply CVE security patches throurgh several modules&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;The opensource wayland has been upgraded to the 1.15.0 version&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;rpc-port is added in the wearable profile&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;TIDL has been improved in terms of performance and stability&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Add intelligent-network-monitoring APIs&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Debugging tools have been enhanced to obtain stability and reliability quickly during development&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;Mini Coredump, Linux-based callstack symbol resolution tools, Thread-based self watchdog system&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Lightweight Web Solution&lt;/strong&gt;
+&lt;ul&gt;&lt;li&gt;WebView support for Bixby Capsule Viewer on TV has been added&lt;/li&gt;
+&lt;li&gt;WebView support for DALi (NUI) has been added&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tizen .NET Core version upgrade (Coreclr, Corefx)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Add Neural Network Runtime (Experimental Release)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Please refer to the &lt;a href=&quot;https://source.tizen.org/release/tizen-5.0-m2&quot;&gt;release information&lt;/a&gt; for details.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/tags/tizen-5.0&quot;&gt;Tizen 5.0&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 01 Nov 2018 08:00:32 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20610 at https://www.tizen.org</guid>
+  </item>
+  <item>
+    <title>Announcing Tizen Studio 3.0 Release</title>
+    <link>https://www.tizen.org/blogs/tsg/2018/announcing-tizen-studio-3.0-release</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We are delighted to announce the release of Tizen Studio version 3.0. This is a major release and includes many new features to further improve the performance of Tizen Studio IDE and its tools.&lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;h4 class=&quot;rteindent1&quot;&gt;SmartThings&lt;/h4&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;• Tizen Studio 3.0 provides support for iot-headed-5.0 and iot-headless-5.0 profiles.&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;• Two process model support has been added for iot-5.0 profiles.&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;In the new two process model support provided, there will be two json files created compared to single json file created in previous iot profiles,&lt;/p&gt;
+&lt;p class=&quot;rteindent2&quot;&gt;1. master.json - contains the information of the devices and configuration.&lt;br /&gt;
+2. resource.json - contains the information of all the resources.&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;These changes will help in creating single master application and multiple resource applications.&lt;/p&gt;
+&lt;h4 class=&quot;rteindent1&quot;&gt;TizenRT&lt;/h4&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;• TizenRT now supports docker build.&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;With the use of docker build, there is no need to install the required libraries and toolchains since the provided Docker container already includes everything required for TizenRT development.&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;Going forward the docker build will help in extending TizenRT support for Windows.&lt;/p&gt;
+&lt;h4 class=&quot;rteindent1&quot;&gt;Certificate Manager&lt;/h4&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;• The certificate password storage scheme is upgraded using Wincrypt and Secret tools, making the certificate profiles more secure compared to previous versions of Tizen Studio.&lt;/p&gt;
+&lt;h4 class=&quot;rteindent1&quot;&gt;Ubuntu 18.04 Support&lt;/h4&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;• Tizen Studio 3.0 now supports Ubuntu 18.04 version.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;This release also includes some key bug fixes&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IoT applications can now be installed without the Cloud service certificate and key&lt;/li&gt;
+&lt;li&gt;Added a label warning user to terminate all Tizen Studio tasks before installing/uninstalling any package&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;For more information about the new features and bug fixes, see &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download/release-notes&quot;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To download Tizen Studio, visit &lt;a href=&quot;https://developer.tizen.org/development/tizen-studio/download&quot;&gt;https://developer.tizen.org/development/tizen-studio/download&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 31 Oct 2018 02:34:00 +0000</pubDate>
+ <dc:creator>Technical Steering Group</dc:creator>
+ <guid isPermaLink="false">20609 at https://www.tizen.org</guid>
+  </item>
+  </channel>
+</rss>
